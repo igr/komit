@@ -1,2 +1,1 @@
-# komit
-komit.rs
+# KOMIT.rs
